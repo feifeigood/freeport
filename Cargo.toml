@@ -6,5 +6,6 @@ edition = "2021"
 description = "A Rust library to find a free port"
 repository = "https://github.com/feifeigood/freeport"
 readme = "README.md"
+license-file = "LICENSE"
 
 [dependencies]
