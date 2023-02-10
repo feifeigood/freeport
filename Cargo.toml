@@ -1,0 +1,10 @@
+[package]
+name = "freeport"
+version = "0.1.0"
+authors = ["feifeigood <feifeigood91@gamil.com>"]
+edition = "2021"
+description = "A Rust library to find a free port"
+repository = "https://github.com/feifeigood/freeport"
+readme = "README.md"
+
+[dependencies]

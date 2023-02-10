@@ -1,2 +1,2 @@
 # freeport
-A Rust library to find a free port
+Get a free open TCP port that is ready to use.
